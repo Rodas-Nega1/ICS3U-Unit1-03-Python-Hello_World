@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Mr. Coxall
-# Created on: Sept 2020
+# Created by: Rodas Nega
+# Created on: Sept 2021
 # This is the "Hello, World!" program, with proper style
 
 
